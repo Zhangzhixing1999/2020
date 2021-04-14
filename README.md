@@ -1,2 +1,2 @@
-# 2020
-啊
+# MyLearnOpenGL
+opengl的学习过程.
